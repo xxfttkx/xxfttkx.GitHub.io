@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old Hugo Site</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content on Old Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Mon, 26 Aug 2024 19:06:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>20240826</title>
+      <link>http://localhost:1313/posts/20240826/</link>
+      <pubDate>Mon, 26 Aug 2024 19:06:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20240826/</guid>
+      <description>听了推文。印象深的有两，一是女主是从战争年代穿越到现代的真千金，没鱿怎么关注豪门内斗而是自己努力拼搏，我怎么不努力；二是女主是杀手，刺杀滇王却屡屡失败，结果滇王颠着颠着发现不是那么颠的人，大家都很不容易，我呢。 我只想拿着我的圆珠笔大杀四方。 我只想着打20点的真格还是22点的真格。&#xA;翻译看readme</description>
+    </item>
+    <item>
+      <title>Ananke: a Hugo Theme</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Mon, 26 Aug 2024 19:06:00 +0800</pubDate>
+      <guid>http://localhost:1313/</guid>
+      <description>Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.</description>
+    </item>
+    <item>
+      <title>Test1</title>
+      <link>http://localhost:1313/posts/test1/</link>
+      <pubDate>Sun, 25 Aug 2024 21:57:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test1/</guid>
+      <description>一个简要的描述，说明函数的作用，使用第三人称单数形式的简单现在时。例如：&#xA;someFunction返回字符串s重复n次。&#xA;签名 func someFunction(s string, n int) string 示例 一个或多个实际示例，每个示例包含在一个代码块中。&#xA;说明 额外的信息，根据需要进行澄清。</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 25 Aug 2024 21:42:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>坏</description>
+    </item>
+    <item>
+      <title>大</title>
+      <link>http://localhost:1313/tags/%E5%A4%A7/</link>
+      <pubDate>Sun, 25 Aug 2024 21:42:30 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%A4%A7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>抽象</title>
+      <link>http://localhost:1313/tags/%E6%8A%BD%E8%B1%A1/</link>
+      <pubDate>Sun, 25 Aug 2024 21:42:30 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E6%8A%BD%E8%B1%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日期作标题似乎只能取悦当下的自己</title>
+      <link>http://localhost:1313/posts/20240825/</link>
+      <pubDate>Sun, 25 Aug 2024 20:53:10 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20240825/</guid>
+      <description>打不动喷的一天&#xA;今日喷游玩时间1.5h以内，重拾圆珠笔，有强度的美。&#xA;看了元世界第一玩家的小号练成日记。异世界，游戏世界，挺好看的，又有新，又有典，异世界就得是这样啊。&#xA;在玩的手游，クルスタ，游戏中要求使用某几位魔法少女达成挑战，公告中却只有名字，我认不出来啊，wiki查了下，好几位我都没获得，还要打出一定伤害，好困难。&#xA;今天做了模考，50多分，完全不知道言语和判断怎么进步，复盘以求心理安慰。&#xA;去了外婆家吃酒，吃完就逃。&#xA;这次能坚持几天。&#xA;这又是第几次。</description>
+    </item>
+    <item>
+      <title>20240824</title>
+      <link>http://localhost:1313/posts/20240824/</link>
+      <pubDate>Sat, 24 Aug 2024 21:37:22 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20240824/</guid>
+      <description>魅魔代行者 能看，还行</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name&#xD;Email Address&#xD;An email address is required.&#xD;Message&#xD;</description>
+    </item>
+  </channel>
+</rss>
