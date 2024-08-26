@@ -5,7 +5,7 @@ on:
   # 在目标为默认分支的推送上运行
   push:
     branches:
-      - main
+      - master
 
   # 允许您手动从“Actions”标签运行此工作流程
   workflow_dispatch:
