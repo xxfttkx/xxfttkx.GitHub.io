@@ -4,6 +4,7 @@ date: {{ .Date }}
 tags: []
 featured_image: ""
 description: ""
+draft = true
 ---
 
 一个简要的描述，说明函数的作用，使用第三人称单数形式的简单现在时。例如：

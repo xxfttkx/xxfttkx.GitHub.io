@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on Old Hugo Site</title>
+    <link>http://localhost:1313/tags/diary/</link>
+    <description>Recent content in Diary on Old Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 11:03:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240828</title>
+      <link>http://localhost:1313/posts/20240828/</link>
+      <pubDate>Wed, 28 Aug 2024 11:03:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20240828/</guid>
+      <description>看漫画看到3点，要死了，睡不醒，边听公基边睡会生气，ee没有做任何事的动力，中午打算空气炸锅弄鸡腿吃。&#xA;1252，35min下播，打游戏好累。上床了。看看漫画，做做资料判断。&#xA;1847起床，像死了。&#xA;外面的config.yaml好像完全没用。删了。。&#xA;2107吃完了西瓜。打算22点开播，打新格。</description>
+    </item>
+    <item>
+      <title>20240827</title>
+      <link>http://localhost:1313/posts/20240827/</link>
+      <pubDate>Tue, 27 Aug 2024 10:49:32 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20240827/</guid>
+      <description>早上先创建好，虽然什么都不想写，也没得写，也不敢写。&#xA;做的梦已经想不起来了，刚醒的时候明明好像还在仔细回味。&#xA;能成功push了。&#xA;两个分支什么时候再来仔细研究。&#xA;该喷了，想拉屎。&#xA;做出了判断6/15。&#xA;明天看表单吧。Formspree。完事了，下辈子再看自建。&#xA;COMMENTO，有机会再看看自建。&#xA;config.yaml要移出来才有用，theme文件夹中的都没法直接起作用吗？&#xA;洗澡喵。&#xA;2210洗好了。家里没饮料了，想买。该播了，好像是新工，和12点不一样的格，也想打，期待。&#xA;在边看异世界漫画，实况地下城，还不错。&#xA;2310下播，打不动了。上床吧。</description>
+    </item>
+  </channel>
+</rss>
