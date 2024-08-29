@@ -4,12 +4,11 @@ date: {{ .Date }}
 tags: []
 featured_image: ""
 description: ""
-draft = true
+draft: true
 ---
-
 一个简要的描述，说明函数的作用，使用第三人称单数形式的简单现在时。例如：
 
-`someFunction`返回字符串`s`重复`n`次。
+`someFunction`返回字符串 `s`重复 `n`次。
 
 ## 签名
 
