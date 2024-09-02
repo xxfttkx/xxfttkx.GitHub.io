@@ -24,6 +24,7 @@
 &lt;p&gt;解决不了：&lt;/p&gt;
 &lt;p&gt;Error: error building site: process: readAndProcessContent: &amp;ldquo;F:\hugo\quickstart\content\posts\rich-content\index.md:40:1&amp;rdquo;: failed to extract shortcode: template for shortcode &amp;ldquo;bilibili&amp;rdquo; not found&lt;/p&gt;
 &lt;p&gt;看了这个https://stack.jimmycai.com/guide/getting-started&lt;/p&gt;
+&lt;p&gt;以为goproxy有问题，尝试go env -w GOPROXY=http://localhost:10809，无果。&lt;/p&gt;
 </description>
         </item>
         <item>
