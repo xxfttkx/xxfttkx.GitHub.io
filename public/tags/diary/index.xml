@@ -7,12 +7,53 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 02 Sep 2024 11:15:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Sep 2024 10:49:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/diary/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>20240903</title>
+        <link>http://localhost:1313/p/20240903/</link>
+        <pubDate>Tue, 03 Sep 2024 10:49:50 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/20240903/</guid>
+        <description>&lt;p&gt;1050现在。早饭吃了蛋糕牛奶。梦里也是在买东西吃，虽然目的不是吃，也没吃到。&lt;/p&gt;
+&lt;p&gt;做了言语8/15。&lt;/p&gt;
+&lt;p&gt;1145，空气炸锅弄了点肉肠，肉丸；微波炉弄了早晨的剩鱼。等妈。&lt;/p&gt;
+&lt;p&gt;1209吃完午饭，该播了。今天喝0糖0脂肪0卡路里的燃力士维生素气泡水白桃乌龙茶风味，还行，好有味道。&lt;/p&gt;
+&lt;p&gt;1303打了两把格，一赢一输；工差一把低保。好热啊。&lt;/p&gt;
+&lt;p&gt;1730起来弄晚饭吃，做了资料12/15，判断11/15。退货了紧内裤，没什么特别想学的，等等看看hugo。posts文件夹f2改成post不显示的显示了，之后再看原因吧，不同theme为什么这种都没有个标准。&lt;/p&gt;
+&lt;p&gt;等等看看git怎么还原，先收衣服弄吃的。&lt;/p&gt;
+&lt;p&gt;华莱士有10元3堡，想吃，跟妈讲了。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log -- archetypes/default.md
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout  8601f8a4724875157ffc29df8e88df81b0d869f7  -- archetypes/default.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;还原如上。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>20240903</title>
+        <link>http://localhost:1313/posts/20240903/</link>
+        <pubDate>Tue, 03 Sep 2024 10:49:50 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/20240903/</guid>
+        <description>&lt;p&gt;1050现在。早饭吃了蛋糕牛奶。梦里也是在买东西吃，虽然目的不是吃，也没吃到。&lt;/p&gt;
+&lt;p&gt;做了言语8/15。&lt;/p&gt;
+&lt;p&gt;1145，空气炸锅弄了点肉肠，肉丸；微波炉弄了早晨的剩鱼。等妈。.&lt;/p&gt;
+&lt;p&gt;1209吃完午饭，该播了。今天喝0糖0脂肪0卡路里的燃力士维生素气泡水白桃乌龙茶风味，还行，好有味道。&lt;/p&gt;
+&lt;p&gt;1303打了两把格，一赢一输；工差一把低保。好热啊。&lt;/p&gt;
+&lt;p&gt;1730起来弄晚饭吃，做了资料12/15，判断11/15。退货了紧内裤，没什么特别想学的，等等看看hugo。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>20240902</title>
-        <link>http://localhost:1313/posts/20240902/</link>
+        <link>http://localhost:1313/p/20240902/</link>
         <pubDate>Mon, 02 Sep 2024 11:15:46 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/20240902/</guid>
+        <guid>http://localhost:1313/p/20240902/</guid>
         <description>&lt;p&gt;1116起来，1000就醒了，梦到啥了来着，想不清楚。做了言语8/15，腌了鸡腿肉。打算看v2fly。&lt;/p&gt;
 &lt;p&gt;1149吃完了，妈妈才刚回来。喝了乌龙茶，好没味道。煎鸡腿肉出了好多水。&lt;/p&gt;
 &lt;p&gt;1202打打喷三吧，等等洗碗。&lt;/p&gt;
@@ -34,14 +75,15 @@
 &lt;p&gt;有蝙蝠。。又害怕又懒得开门。。蹲下来开门把蝙蝠放出去了。此时0019。&lt;/p&gt;
 &lt;p&gt;显示不全是content目录。&lt;/p&gt;
 &lt;p&gt;好莫名其妙。&lt;/p&gt;
+&lt;p&gt;显示很奇怪，明天再说。0040。晚安。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>20240901</title>
-        <link>http://localhost:1313/posts/20240901/</link>
+        <link>http://localhost:1313/p/20240901/</link>
         <pubDate>Sun, 01 Sep 2024 11:40:35 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/20240901/</guid>
+        <guid>http://localhost:1313/p/20240901/</guid>
         <description>&lt;p&gt;1140打开电脑，模考考了60.2，慢慢复盘吧，前几天的n2还没复盘完。&lt;/p&gt;
 &lt;p&gt;1205吃完午饭，上播吧。燃力士0糖青苹果茉莉风味维生素气泡水，挺有味道的，现在懒得料料，可能会等等直播途中开拉，顺便洗碗，再贴膏药。&lt;/p&gt;
 &lt;p&gt;1255下播，不想打这期格。&lt;/p&gt;
@@ -60,10 +102,10 @@
         </item>
         <item>
         <title>20240831</title>
-        <link>http://localhost:1313/posts/20240831/</link>
+        <link>http://localhost:1313/p/20240831/</link>
         <pubDate>Sat, 31 Aug 2024 10:42:46 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/20240831/</guid>
+        <guid>http://localhost:1313/p/20240831/</guid>
         <description>&lt;p&gt;1043起来，今天是周六。梦到差点死去，结果我也还没逃脱就醒了。&lt;/p&gt;
 &lt;p&gt;1140开播。伊能无糖茉莉花茶好没味道，决定不了未来。&lt;/p&gt;
 &lt;p&gt;1236下播，太热啦。&lt;/p&gt;
@@ -77,10 +119,10 @@
         </item>
         <item>
         <title>20240830</title>
-        <link>http://localhost:1313/posts/20240830/</link>
+        <link>http://localhost:1313/p/20240830/</link>
         <pubDate>Fri, 30 Aug 2024 10:47:51 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/20240830/</guid>
+        <guid>http://localhost:1313/p/20240830/</guid>
         <description>&lt;p&gt;1048起来，中午吃稀饭。好困，梦到好多，不想写。看看go，看看公基。玩的两个手游今天更新。&lt;/p&gt;
 &lt;p&gt;1129不想煮菜，点外卖吗。外卖关店了，看看空气炸锅吧。一个大鸡腿，不想学，学吧，看看别人的代码。44翻面。&lt;/p&gt;
 &lt;p&gt;1840吃完晚饭，判断12/15。不想学啊啊啊，今天喝鸭屎香风味统一双萃柠檬茶，还行，普通的柠檬茶味。没报n2，感觉没什么含金量，不想应试。好没心情，打算看看视频玩玩手游，下午抽卡80/200出了，活动票浪费了一张，忘了这种行为叫什么。（）票？&lt;/p&gt;
@@ -90,10 +132,10 @@
         </item>
         <item>
         <title>20240829</title>
-        <link>http://localhost:1313/posts/20240829/</link>
+        <link>http://localhost:1313/p/20240829/</link>
         <pubDate>Thu, 29 Aug 2024 10:15:15 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/20240829/</guid>
+        <guid>http://localhost:1313/p/20240829/</guid>
         <description>&lt;p&gt;1011起床，实在饿了，吃牛奶蛋糕，正想着等下蒸饭，拉屎感袭来，今天没有什么特别的预定，中午过后做套行测卷吧，随便去看看go。&lt;/p&gt;
 &lt;p&gt;1210拉完了，拉了好多，中午我煮的菜好难吃，难吃的白菜，难吃的熟菜再加工。&lt;/p&gt;
 &lt;p&gt;想起来梦了，梦到了和爹妈去玩，某景区碰到前领导和未知考公小孩，和小孩一起去某处玩，穿过长长的通道，路上还和他一起骂前领导，得知这小孩还初二。路途中前面后面同向反向有好多穿孤独摇滚衣服的人，我觉得很好笑，不自觉地笑着说“你不会也穿的孤独摇滚吧”，定睛一看，此小孩还真是穿的结束乐队。感觉到了他的尴尬，我也拿出自证身份的道具，略显歉意的说“哈哈，我也有，我也有”。明明是去的景区，结果却是什么自助餐厅，小孩碰到了他的同学，离开了我，而我无论如何也找不到他。不熟悉吃法的我找到了盘子，却发现和别人不同，醒来才发现我用的是别人用过的餐盘。想不清楚别的了，到处找插头和位置的我也很局促。还好是梦，想起上次吃杨国福，用的被子不是柜子里的，也不知道是洗好的还是要拿去洗的。&lt;/p&gt;
@@ -143,47 +185,11 @@
 </description>
         </item>
         <item>
-        <title>20240828</title>
-        <link>http://localhost:1313/posts/20240828/</link>
-        <pubDate>Wed, 28 Aug 2024 11:03:30 +0800</pubDate>
-        
-        <guid>http://localhost:1313/posts/20240828/</guid>
-        <description>&lt;p&gt;看漫画看到3点，要死了，睡不醒，边听公基边睡会生气，没有做任何事的动力，中午打算空气炸锅弄鸡腿吃。&lt;/p&gt;
-&lt;p&gt;1252，35min下播，打游戏好累。上床了。看看漫画，做做资料判断。&lt;/p&gt;
-&lt;p&gt;1847起床，像死了。&lt;/p&gt;
-&lt;p&gt;外面的config.yaml好像完全没用。删了。。&lt;/p&gt;
-&lt;p&gt;2107吃完了西瓜。打算22点开播，打新格。&lt;/p&gt;
-&lt;p&gt;2143，播了得了。假的，憋不住尿。爽拉，已2150，洗衣机好会喷水，应该会播到洗好衣服，开播。&lt;/p&gt;
-&lt;p&gt;2224下播，一直打一直输一直出汗。刚好又想拉尿，尿多好爽，吃了西瓜真好。&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>20240827</title>
         <link>http://localhost:1313/p/20240827/</link>
         <pubDate>Tue, 27 Aug 2024 10:49:32 +0800</pubDate>
         
         <guid>http://localhost:1313/p/20240827/</guid>
-        <description>&lt;p&gt;早上先创建好，虽然什么都不想写，也没得写，也不敢写。&lt;/p&gt;
-&lt;p&gt;做的梦已经想不起来了，刚醒的时候明明好像还在仔细回味。&lt;/p&gt;
-&lt;p&gt;能成功push了。&lt;/p&gt;
-&lt;p&gt;两个分支什么时候再来仔细研究。&lt;/p&gt;
-&lt;p&gt;该喷了，想拉屎。&lt;/p&gt;
-&lt;p&gt;做出了判断6/15。&lt;/p&gt;
-&lt;p&gt;明天看表单吧。Formspree。完事了，下辈子再看自建。&lt;/p&gt;
-&lt;p&gt;COMMENTO，有机会再看看自建。&lt;/p&gt;
-&lt;p&gt;config.yaml要移出来才有用，theme文件夹中的都没法直接起作用吗？&lt;/p&gt;
-&lt;p&gt;洗澡喵。&lt;/p&gt;
-&lt;p&gt;2210洗好了。家里没饮料了，想买。该播了，好像是新工，和12点不一样的格，也想打，期待。&lt;/p&gt;
-&lt;p&gt;在边看异世界漫画，实况地下城，还不错。&lt;/p&gt;
-&lt;p&gt;2310下播，打不动了。上床吧。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>20240827</title>
-        <link>http://localhost:1313/posts/20240827/</link>
-        <pubDate>Tue, 27 Aug 2024 10:49:32 +0800</pubDate>
-        
-        <guid>http://localhost:1313/posts/20240827/</guid>
         <description>&lt;p&gt;早上先创建好，虽然什么都不想写，也没得写，也不敢写。&lt;/p&gt;
 &lt;p&gt;做的梦已经想不起来了，刚醒的时候明明好像还在仔细回味。&lt;/p&gt;
 &lt;p&gt;能成功push了。&lt;/p&gt;

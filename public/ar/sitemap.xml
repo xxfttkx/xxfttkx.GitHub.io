@@ -20,24 +20,6 @@
                 href="http://localhost:1313/ar/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ar/posts/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/posts/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ar/post/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -94,19 +76,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ar/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/posts/placeholder-text/"
                 />
   </url><url>
     <loc>http://localhost:1313/ar/</loc>
