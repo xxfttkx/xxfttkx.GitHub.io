@@ -4,5 +4,5 @@ description:
 date: {{ .Date }}
 hidden: false
 comments: true
-draft: true
+draft: false
 ---
