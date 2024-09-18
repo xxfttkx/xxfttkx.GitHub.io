@@ -9,9 +9,7 @@ tags: ["tech", "gal"]
 ---
 看了好多篇，解包封包什么的，都去看了，但exe要怎么能在手机上用，不懂啊。
 
-看了[KrkrExtract](https://github.com/xmoezzz/KrkrExtract)，GARbro等拆包软件，更是一头雾水，想玩的游戏的解密手段也不知道，使用[KrkrExtract](https://github.com/xmoezzz/KrkrExtract)甚至还报出
-
-[Fatal Error Access Violation](https://github.com/xmoezzz/KrkrExtract/issues/119)，更是没能找出解决方法。
+看了[KrkrExtract](https://github.com/xmoezzz/KrkrExtract)，GARbro等拆包软件，更是一头雾水，想玩的游戏的解密手段也不知道，使用[KrkrExtract](https://github.com/xmoezzz/KrkrExtract)甚至还报出[Fatal Error Access Violation](https://github.com/xmoezzz/KrkrExtract/issues/119)，更是没能找出解决方法。
 
 决定去看看[Kirikiroid2](https://github.com/zeas2/Kirikiroid2)，看个README就看出个大概了
 
