@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://xxfttkx.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 10
@@ -11,16 +11,20 @@ DefaultContentLanguage: en
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
 
+sitemap:
+    changefreq: monthly
+    priority: 0.5
+    
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: 我是谁
         weight: 1
         params:
             description: Example description
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 早上好
         weight: 2
         params:
             description: 演示说明
@@ -55,11 +59,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: subtitle
+        subtitle: 早上好
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: images/avatar.png
 
     article:
         math: false
