@@ -5,6 +5,7 @@ date: 2024-09-14T12:18:07+08:00
 hidden: false
 comments: true
 draft: false
+tags: ["manga"]
 ---
 # 2024
 
