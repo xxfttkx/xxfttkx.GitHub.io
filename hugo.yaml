@@ -19,7 +19,7 @@ sitemap:
 languages:
     en:
         languageName: English
-        title: 525使
+        title: 洗洁精使
         weight: 1
         params:
             description: Example description

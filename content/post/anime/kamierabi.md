@@ -1,10 +1,11 @@
 ---
-title: "《神选》，世界是不是没有好好debug"
+title: "《神选》：世界是不是没有好好debug"
 description: 
 date: 2024-10-07T20:20:59+08:00
 hidden: false
 comments: true
 draft: false
+categories: ["anime"]
 tags: ["anime"]
 ---
 最近看了阿伟优创动画的视频，对这类型感兴趣，因此被本作名字吸引，开始观看。
