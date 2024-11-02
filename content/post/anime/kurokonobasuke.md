@@ -19,6 +19,14 @@ image: "/kurokonobasuke/4.jpg"
 
 挺好的，期待还没交战过的前队友们。加油吧，贯彻你的意念，让我看看你能走到哪一步。
 
+OAD没看，画质烂，我也不是多在意这种额外的小剧场。
+
+> OVA= Original Video Animation，不在电视上播出，以光盘形式发售
+>
+> OAD= Original Animation Disc，不在电视上播出，以光盘形式发售
+>
+> OVA与OAD的区别？没有本质区别！叫法不一样而已，OVA是比较常见的叫法！
+
 {{< figure src="/kurokonobasuke/1.jpg" title="" caption="" >}}
 
 {{< figure src="/kurokonobasuke/2.jpg" title="" caption="" >}}
