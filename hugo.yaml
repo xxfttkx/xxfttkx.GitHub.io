@@ -1,15 +1,15 @@
 baseurl: xxfttkx.github.io
-languageCode: en-us
+languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 10
 title: Title
 copyright: Example Person
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-cn
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 disqusShortname: nihao-2
 
 sitemap:
@@ -25,7 +25,7 @@ languages:
             description: Example description
     zh-cn:
         languageName: 中文
-        title: 早上好
+        title: 洗洁精使
         weight: 2
         params:
             description: 演示说明
