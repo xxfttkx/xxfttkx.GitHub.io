@@ -12,6 +12,12 @@ DefaultContentLanguage: zh-cn
 hasCJKLanguage: true
 disqusShortname: nihao-2
 
+cascade:
+- _target:
+    path: /post/diary/**  # 目标文件夹路径，支持通配符
+  params:
+    hidden: true  # 为该文件夹下的所有内容设置 hidden: true   
+
 sitemap:
     changefreq: monthly
     priority: 0.5
