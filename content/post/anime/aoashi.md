@@ -7,7 +7,7 @@ comments: true
 draft: false
 categories: ["anime"]
 tags: ["anime"]
-image: "/aoashi/Screenshot_20241101_143810.jpg"
+image: "/aoashi/3.jpg"
 ---
 2022年4月番，闲着无聊通过age的“竞技”tag找到的，想着这季的蓝锁第二季还是等全更完再看吧，有点当作代餐似的看了这部，感觉还行，和蓝锁不是一类的，更像普通运动番，主角不断变强然后冲击全世界。
 
@@ -29,48 +29,26 @@ image: "/aoashi/Screenshot_20241101_143810.jpg"
 
 挺推荐的，一起欣赏ashito的蜕变吧。
 
-{{< figure src="/aoashi/Screenshot_20241101_140929.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/1.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_140951.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/2.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_143810.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/3.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_150448.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/4.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_150521.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/5.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_151333.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/6.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_151431.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/7.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_164319.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/8.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_164801.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/9.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/Screenshot_20241101_165822.jpg" title="" caption="" >}}
+{{< figure src="/aoashi/10.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/screenshot41.bmp" title="" caption="" >}}
+{{< figure src="/aoashi/11.jpg" title="" caption="" >}}
 
-{{< figure src="/aoashi/screenshot42.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot43.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot44.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot45.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot48.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot50.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot51.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot52.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot53.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot54.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot55.bmp" title="" caption="" >}}
-
-{{< figure src="/aoashi/screenshot56.bmp" title="" caption="" >}}
+{{< figure src="/aoashi/12.jpg" title="" caption="" >}}
