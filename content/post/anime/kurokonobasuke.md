@@ -31,8 +31,6 @@ OAD没看，画质烂，我也不是多在意这种额外的小剧场。
 
 {{< figure src="/kurokonobasuke/2.jpg" title="" caption="" >}}
 
-{{< figure src="/kurokonobasuke/3.jpg" title="" caption="" >}}
-
 {{< figure src="/kurokonobasuke/4.jpg" title="" caption="" >}}
 
 {{< figure src="/kurokonobasuke/5.jpg" title="" caption="" >}}
@@ -53,12 +51,6 @@ OAD没看，画质烂，我也不是多在意这种额外的小剧场。
 
 {{< figure src="/kurokonobasuke/13.jpg" title="" caption="" >}}
 
-{{< figure src="/kurokonobasuke/14.jpg" title="" caption="" >}}
+{{< figure src="/kurokonobasuke/17.jpg" title="" caption="" >}}
 
-{{< figure src="/kurokonobasuke/15.bmp" title="" caption="" >}}
-
-{{< figure src="/kurokonobasuke/16.bmp" title="" caption="" >}}
-
-{{< figure src="/kurokonobasuke/17.bmp" title="" caption="" >}}
-
-{{< figure src="/kurokonobasuke/18.bmp" title="" caption="" >}}
+{{< figure src="/kurokonobasuke/18.jpg" title="" caption="" >}}

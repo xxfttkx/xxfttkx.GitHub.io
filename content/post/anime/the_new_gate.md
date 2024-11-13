@@ -7,7 +7,7 @@ comments: true
 draft: false
 categories: ["anime"]
 tags: ["anime"]
-image: "/the_new_gate/screenshot14.bmp"
+image: "/the_new_gate/screenshot14.jpg"
 ---
 上季度的番，且感觉好久没看异世界番了，就开始看，开着倍速算是能看下去的程度。
 
@@ -27,30 +27,12 @@ image: "/the_new_gate/screenshot14.bmp"
 
 看完后感觉会短暂对异世界失去欲望。
 
-{{< figure src="/the_new_gate/screenshot7.bmp" title="" caption="" >}}
+{{< figure src="/the_new_gate/screenshot10.jpg" title="" caption="" >}}
 
-{{< figure src="/the_new_gate/screenshot8.bmp" title="" caption="" >}}
+{{< figure src="/the_new_gate/screenshot13.jpg" title="" caption="" >}}
 
-{{< figure src="/the_new_gate/screenshot9.bmp" title="" caption="" >}}
+{{< figure src="/the_new_gate/screenshot14.jpg" title="" caption="" >}}
 
-{{< figure src="/the_new_gate/screenshot10.bmp" title="" caption="" >}}
+{{< figure src="/the_new_gate/screenshot18.jpg" title="" caption="" >}}
 
-{{< figure src="/the_new_gate/screenshot11.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot12.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot13.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot14.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot15.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot16.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot17.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot18.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot19.bmp" title="" caption="" >}}
-
-{{< figure src="/the_new_gate/screenshot20.bmp" title="" caption="" >}}
+{{< figure src="/the_new_gate/screenshot19.jpg" title="" caption="" >}}
