@@ -25,26 +25,25 @@ image: "/makeine/155.jpg"
 
 > 本作故事不以[恋爱](https://zh.wikipedia.org/wiki/%E6%88%80%E6%84%9B "恋爱")为主轴。雨森称若以恋爱为主轴，故事叙述就会很容易偏离已经输掉的女主角。另外，由于本作亦非[后宫型作品](https://zh.wikipedia.org/wiki/%E5%BE%8C%E5%AE%AE%E5%9E%8B%E4%BD%9C%E5%93%81 "后宫型作品")，因此雨森希望加入一个喜欢男主角温水和彦的角色，而这个角色是他的妹妹温水佳树。
 
-{{< figure src="/makeine/7.jpg" title="" caption="" >}}
-{{< figure src="/makeine/26.jpg" title="" caption="" >}}
-{{< figure src="/makeine/46.jpg" title="" caption="" >}}
-{{< figure src="/makeine/50.jpg" title="" caption="" >}}
-{{< figure src="/makeine/62.jpg" title="" caption="" >}}
-{{< figure src="/makeine/63.jpg" title="" caption="" >}}
-{{< figure src="/makeine/88.jpg" title="" caption="" >}}
-{{< figure src="/makeine/91.jpg" title="" caption="" >}}
-{{< figure src="/makeine/93.jpg" title="" caption="" >}}
-{{< figure src="/makeine/101.jpg" title="" caption="" >}}
-{{< figure src="/makeine/104.jpg" title="" caption="" >}}
+{{< figure src="/makeine/7.jpg" title="何も変わらない" caption="" >}}
+{{< figure src="/makeine/26.jpg" title="走姿可爱" caption="" >}}
+{{< figure src="/makeine/46.jpg" title="最低だな" caption="" >}}
+{{< figure src="/makeine/50.jpg" title="魅魔啊" caption="" >}}
+{{< figure src="/makeine/63.jpg" title="（）" caption="" >}}
+{{< figure src="/makeine/88.jpg" title="そうよ" caption="" >}}
+{{< figure src="/makeine/91.jpg" title="かわいい" caption="" >}}
+{{< figure src="/makeine/93.jpg" title="悪い女" caption="" >}}
+{{< figure src="/makeine/101.jpg" title="そうね" caption="" >}}
+{{< figure src="/makeine/104.jpg" title="サキュバス" caption="" >}}
 
-{{< figure src="/makeine/121.jpg" title="" caption="" >}}
+{{< figure src="/makeine/121.jpg" title="人見知り" caption="" >}}
 
-{{< figure src="/makeine/126.jpg" title="" caption="" >}}
+{{< figure src="/makeine/126.jpg" title="嫡长子" caption="" >}}
 
-{{< figure src="/makeine/134.jpg" title="" caption="" >}}
+{{< figure src="/makeine/134.jpg" title="妹" caption="" >}}
 
-{{< figure src="/makeine/155.jpg" title="" caption="" >}}
+{{< figure src="/makeine/155.jpg" title="全家福" caption="" >}}
 
-{{< figure src="/makeine/168.jpg" title="" caption="" >}}
+{{< figure src="/makeine/168.jpg" title="泣くな！" caption="" >}}
 
-{{< figure src="/makeine/181.jpg" title="" caption="" >}}
+{{< figure src="/makeine/181.jpg" title="素敵" caption="" >}}
