@@ -16,7 +16,8 @@ cascade:
 - _target:
     path: /post/diary/**  # 目标文件夹路径，支持通配符
   params:
-    hidden: true  # 为该文件夹下的所有内容设置 hidden: true   
+    hidden: false  # 为该文件夹下的所有内容设置 hidden: true
+    categories: ["diary"]
 
 sitemap:
     changefreq: monthly

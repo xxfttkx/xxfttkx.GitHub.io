@@ -5,7 +5,8 @@ date: 2024-11-07T20:56:39+08:00
 hidden: false
 comments: true
 draft: false
-tags: ["tech", "question"]
+categories: ["tech", "question"]
+tags: ["git"]
 ---
 origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 
@@ -19,8 +20,7 @@ origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 - 当你克隆一个仓库时，Git 会自动将远程仓库命名为 `origin`。你可以把 `origin` 看作是你本地仓库与远程仓库之间的“桥梁”。
 - 你可以将远程仓库命名为不同的名字，但 `origin` 是 Git 默认的远程仓库名称。
 
-   **例子：**
-
+  **例子：**
 - `git remote add origin <url>`：将远程仓库 URL 关联到本地仓库，并命名为 `origin`。
 - `git push origin main`：将本地的 `main` 分支推送到远程仓库 `origin` 上的 `main` 分支。
 
@@ -29,12 +29,10 @@ origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 - `main` 是 Git 默认的分支名称，尤其是在较新的 Git 项目中（例如 GitHub 和 GitLab 从 2020 年开始就将默认分支改为 `main`）。
 - `main` 作为默认分支的名字通常用于主开发线（或者主干分支），即项目的核心代码所在分支。
 
-   **关系：**
-
+  **关系：**
 - 在一个 Git 仓库中，`main` 是本地分支的名字。你可以有多个分支，但是 `main` 通常是最初创建的默认分支，也是远程仓库的默认分支。
 
-   **例子：**
-
+  **例子：**
 - `git branch`：列出所有本地分支，`main` 通常是其中之一。
 - `git push origin main`：将本地 `main` 分支推送到远程仓库 `origin`。
 
@@ -43,12 +41,10 @@ origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 - `master` 是 Git 在早期的默认分支名称。在 2020 年之前，大多数 Git 项目的默认分支都是 `master`，这个名称是 Git 创建时的默认值。
 - 由于 “master” 在某些语境下被认为带有不合时宜的历史背景（与奴隶制度的历史有关），因此在许多现代版本控制系统中（如 GitHub），默认分支已经从 `master` 改为 `main`。
 
-   **关系：**
-
+  **关系：**
 - `master` 和 `main` 实际上在功能上没有区别。它们都是 Git 中的默认主分支，表示项目的主开发线。只是名称不同，且 `master` 已经逐渐被 `main` 替代。
 
-   **例子：**
-
+  **例子：**
 - 在较旧的项目中，默认的分支可能是 `master`，你可以通过 `git branch -M main` 将其重命名为 `main`。
 
 ### 它们的关系：
@@ -73,7 +69,7 @@ origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 - `YOUR_GITHUB_USERNAME` 是你的 GitHub 用户名，`YOUR_GITHUB_REPO_NAME` 是你在 GitHub 上创建的仓库的名称。
 - 通过这个命令，你将本地仓库与 GitHub 上的远程仓库关联起来，使得可以将本地的提交推送到 GitHub 上。
 
-   **例子：**
+  **例子：**
 
 ```bash
    git remote add origin https://github.com/johndoe/my-repo.git
@@ -84,7 +80,7 @@ origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 - 这个命令将当前的 Git 分支名称更改为 `main`。默认情况下，Git 会创建一个名为 `master` 的分支，但现在许多 Git 项目（包括 GitHub）已经将默认分支的名称改为 `main`，因此这条命令用于确保本地分支的名称与远程仓库的默认分支一致。
 - `-M` 选项表示强制重命名，即使目标分支已存在也会覆盖它。
 
-   **例子：**
+  **例子：**
 
 ```bash
    git branch -M main
@@ -97,7 +93,7 @@ origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 - `origin` 是你设置的远程仓库的名称（通常默认是 `origin`）。
 - `main` 是你要推送到远程仓库的本地分支。
 
-   **例子：**
+  **例子：**
 
 ```bash
    git push -u origin main
