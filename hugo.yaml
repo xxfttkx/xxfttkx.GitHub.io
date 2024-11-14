@@ -24,12 +24,12 @@ sitemap:
     priority: 0.5
 
 languages:
-    en:
-        languageName: English
-        title: 洗洁精使
-        weight: 1
-        params:
-            description: Example description
+    # en:
+    #     languageName: English
+    #     title: 洗洁精使
+    #     weight: 1
+    #     params:
+    #         description: Example description
     zh-cn:
         languageName: 中文
         title: 洗洁精使

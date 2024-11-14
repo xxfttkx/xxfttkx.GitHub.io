@@ -6,7 +6,7 @@ comments: true
 draft: false
 tags: ["diary"]
 ---
-## 用clash verge的tun模式果然速度就上去了，你到底比我v2rayn的全局代理高贵在哪里
+## [用clash verge的tun模式果然速度就上去了，你到底比我v2rayn的全局代理高贵在哪里](../20241113)
 
 很高兴你解决了网络速度问题！你提到的 **Clash Verge** 和 **V2RayN** 都是常见的代理工具，它们的工作原理和性能特点有所不同，下面我来为你对比一下，看看它们的差异在哪里：
 
