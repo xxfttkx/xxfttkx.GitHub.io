@@ -5,6 +5,10 @@ links:
     description: 天使
     website: https://chatgpt.com/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Zero搬运网
+    description: 救命恩人
+    website: https://zerobyw.github.io/
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: GitHub
     description: GitHub is the world's largest software development platform.
     website: https://github.com
