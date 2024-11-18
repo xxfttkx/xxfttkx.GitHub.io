@@ -26,6 +26,12 @@ image: "highschool_of_the_dead/3.jpg"
 
 有机会去看看漫画吧。
 
+---
+
+看了眼漫画，了解到过世的是编剧，作画还在世，海中马甲inazuma。
+
+这r15比r18还带劲。
+
 {{< figure src="/highschool_of_the_dead/1.jpg" title="" caption="" >}}
 {{< figure src="/highschool_of_the_dead/2.jpg" title="" caption="" >}}
 {{< figure src="/highschool_of_the_dead/3.jpg" title="" caption="" >}}
