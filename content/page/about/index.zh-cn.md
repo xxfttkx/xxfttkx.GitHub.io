@@ -1,7 +1,7 @@
 ---
 title: About
 description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+date: '2024-12-07'
 aliases:
   - about-us
   - about-hugo
@@ -14,5 +14,6 @@ menu:
         params:
             icon: user
 ---
+过去不是现在
 
-我是谁
+现在不是未来
