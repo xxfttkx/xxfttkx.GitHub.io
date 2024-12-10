@@ -17,9 +17,9 @@ links:
     description: 好用
     website: https://www.acgbox.link/#term-692
     image: https://www.acgbox.link/wp-content/uploads/logo/86742914_p0.png
-  - title: 屎不拉通
+  - title: blog
     description: 
-    website: https://wikiwiki.jp/splatoon3mix/%E3%83%96%E3%82%AD
+    website: https://www.aoba-dc.jp/blog/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: 屎不拉通
     description: 
