@@ -4,8 +4,7 @@ description:
 date: 2024-11-13T09:08:34+08:00
 comments: true
 draft: false
-categories: ["tech", "question"]
-tags: ["webpack"]
+tags: ["webpack","tech"]
 ---
 ## 1: Webpack 是啥
 

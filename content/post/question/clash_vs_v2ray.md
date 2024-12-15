@@ -4,7 +4,7 @@ description:
 date: 2024-11-13T22:34:26+08:00
 comments: true
 draft: false
-tags: ["diary"]
+tags: ["clash", "v2ray"]
 ---
 ## [用clash verge的tun模式果然速度就上去了，你到底比我v2rayn的全局代理高贵在哪里](../20241113)
 

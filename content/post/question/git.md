@@ -5,8 +5,7 @@ date: 2024-11-07T20:56:39+08:00
 hidden: false
 comments: true
 draft: false
-categories: ["tech", "question"]
-tags: ["git"]
+tags: ["git","tech"]
 ---
 origin, main, master, 分别是什么又有什么关系。搞不懂就问gpt。
 
