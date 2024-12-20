@@ -72,7 +72,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 早上好
+        subtitle: 你好
         avatar:
             enabled: true
             local: true
