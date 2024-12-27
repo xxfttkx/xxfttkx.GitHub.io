@@ -1,5 +1,5 @@
 ---
-title: "Tsue_to_Tsurugi_no_Wistoria"
+title: "《杖与剑的魔剑谭》"
 description: 
 date: 2024-12-27T13:59:56+08:00
 comments: true
