@@ -5,7 +5,7 @@ date: 2025-01-02T21:44:55+08:00
 comments: true
 draft: false
 categories: ["anime"]
-tags: ["anime"，"麻将"]
+tags: ["anime", "麻将"]
 ---
 身为高中生的麻将高手从网络麻将到线下麻将再到黑社会麻将的经历与成长。故事很刺激，大家对器官好像都不是很留恋。
 
