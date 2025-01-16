@@ -61,10 +61,9 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: 上传构建产物
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
           path: ./public
-          name: la
 
   # 部署作业
   deploy:
