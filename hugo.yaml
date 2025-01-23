@@ -205,6 +205,12 @@ params:
         # Available values: auto, light, dark
         default: auto
 
+    showDiary:
+        # Display toggle
+        toggle: false
+        # Available values: auto, light, dark
+        default: true
+
     imageProcessing:
         cover:
             enabled: true
@@ -228,13 +234,13 @@ menu:
           name: Twitter
           url: https://x.com/freeze_gray
           params:
-              icon: brand-twitter
+              icon: brand-x
 
         - identifier: bilibili
           name: Bilibili
           url: https://space.bilibili.com/390467483
           params:
-              icon: brand-twitter
+              icon: brand-bilibili
 
 related:
     includeNewer: true
