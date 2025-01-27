@@ -226,21 +226,38 @@ menu:
     social:
         - identifier: github
           name: GitHub
+          weight: 1
           url: https://github.com/xxfttkx
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
+          weight: 2
           url: https://x.com/freeze_gray
           params:
               icon: brand-x
 
         - identifier: bilibili
           name: Bilibili
+          weight: 3
           url: https://space.bilibili.com/390467483
           params:
               icon: brand-bilibili
+        
+        - identifier: splt_weapons
+          name: splt_weapons
+          weight: 4
+          url: https://xxfttkx.github.io/splatoon_SalmonRun_weapons/salmonRun.html
+          params:
+              icon: SplatNet_3_icon_Salmon_Run
+        
+        - identifier: splt_salmons
+          name: splt_salmons
+          weight: 5
+          url: https://xxfttkx.github.io/splatoon_SalmonRun_salmons/salmon.html
+          params:
+              icon: SRNW_Golden_Egg_icon
 
 related:
     includeNewer: true
