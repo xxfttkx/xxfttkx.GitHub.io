@@ -33,3 +33,17 @@ git reset --hard 1e9c6b5fde1cf7512fd6d04ab025a8844dab0e70
 git push --force
 ```
 回退到commit前的版本然后强制推送
+
+>之前clone原仓库了，改了代码，要怎么提交pr
+
+```
+    fork
+
+    git remote -v
+
+    git remote set-url origin https://github.com/xxfttkx/maa-copilot-frontend.git
+
+    git remote -v
+
+    push
+```
