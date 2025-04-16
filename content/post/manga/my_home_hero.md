@@ -4,7 +4,8 @@ description:
 date: 2025-04-16T00:29:46+08:00
 comments: true
 draft: false
-tags: ["diary"]
+categories: ["manga"]
+tags: ["manga"]
 ---
 爽啊，第一季平稳落地后得知有后续。
 
