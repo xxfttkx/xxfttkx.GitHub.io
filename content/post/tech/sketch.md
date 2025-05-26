@@ -65,6 +65,9 @@ def dodge(front, back):
 
 sketch = dodge(gray_image, blurred)
 ```
+边缘 -> 不那么白
+
+平坦 -> 白
 
    {{< figure src="/tech/sketch/step4_sketch.jpg" title="" caption="" >}}
 
