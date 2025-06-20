@@ -259,6 +259,16 @@ menu:
           params:
               icon: SRNW_Golden_Egg_icon
 
+        - identifier: TwinkleStarKnights_Battle_Simulator
+          name: TwinkleStarKnights_Battle_Simulator
+          weight: 6
+          url: https://xxfttkx.github.io/TwinkleStarKnights_Battle_Simulator/
+          params:
+              icon: TwinkleStarKnights
+
+
+
+
 related:
     includeNewer: true
     threshold: 60
