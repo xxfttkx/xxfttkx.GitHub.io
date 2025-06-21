@@ -264,10 +264,7 @@ menu:
           weight: 6
           url: https://xxfttkx.github.io/TwinkleStarKnights_Battle_Simulator/
           params:
-              icon: TwinkleStarKnights
-
-
-
+              icon: device-gamepad
 
 related:
     includeNewer: true
