@@ -265,7 +265,12 @@ menu:
           url: https://xxfttkx.github.io/TwinkleStarKnights_Battle_Simulator/
           params:
               icon: device-gamepad
-
+        - identifier: RSS
+          name: RSS
+          weight: 6
+          url: https://xxfttkx.github.io/index.xml
+          params:
+              icon: rss
 related:
     includeNewer: true
     threshold: 60
