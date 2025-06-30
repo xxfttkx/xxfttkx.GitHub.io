@@ -267,10 +267,26 @@ menu:
               icon: device-gamepad
         - identifier: RSS
           name: RSS
-          weight: 6
+          weight: 7
           url: https://xxfttkx.github.io/index.xml
           params:
               icon: rss
+        - identifier: mail
+          name: mail
+          weight: 8
+          url: mailto:notlauirf@gmail.com
+          params:
+              icon: mail
+        - identifier: video
+          name: video
+          weight: 9
+          url: https://xxfttkx.github.io/web_player/
+          params:
+              icon: video
+
+
+
+
 related:
     includeNewer: true
     threshold: 60
