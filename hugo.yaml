@@ -10,7 +10,7 @@ DefaultContentLanguage: zh-cn
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
-disqusShortname: nihao-2
+# disqusShortname: nihao-2
 
 cascade:
   - _target:
@@ -88,7 +88,7 @@ params:
 
   comments:
     enabled: true
-    provider: disqus
+    provider: giscus
 
     disqusjs:
       shortname:
@@ -148,16 +148,35 @@ params:
       serverName: "cactus.chat"
       siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
+    # <script src="https://giscus.app/client.js"
+    #         data-repo=""
+    #         data-repo-id=""
+    #         data-category=""
+    #         data-category-id=""
+    #         data-mapping=""
+    #         data-strict="1"
+    #         data-reactions-enabled="1"
+    #         data-emit-metadata="0"
+    #         data-input-position="bottom"
+    #         data-theme=""
+    #         data-lang="zh-CN"
+    #         data-loading="lazy"
+    #         crossorigin="anonymous"
+    #         async>
+    # </script>
     giscus:
-      repo:
-      repoID:
-      category:
-      categoryID:
-      mapping:
-      lightTheme:
-      darkTheme:
-      reactionsEnabled: 1
-      emitMetadata: 0
+      repo: xxfttkx/xxfttkx.GitHub.io
+      repoID: R_kgDOHFV8qg
+      category: Giscus
+      categoryID: DIC_kwDOHFV8qs4Cs0uX
+      mapping: pathname
+      strict: true
+      reactions_enabled: true
+      emit_metadata: false
+      input_position: bottom
+      theme: preferred_color_scheme
+      lang: zh-CN
+      loading: lazy
 
     gitalk:
       owner:
