@@ -1,0 +1,65 @@
+<section class="widget">
+  <div style="text-align: center;">
+<canvas id="hiddenCanvas" width="1112" height="3392" style="display: none;"></canvas>
+<canvas id="composite-two" width="278" height="848" style="width: 100px; height: auto; display: block;"></canvas>
+
+
+</div>
+
+  <script>
+    var bodyIds = [1, 10, 11, 12, 13, 15, 17, 18, 19, 2, 20, 21, 23, 3, 4, 5, 7, 9];
+    var faceIds = Array.from({ length: 30 }, (_, i) => i + 1);
+
+    var bodyId = bodyIds[Math.floor(Math.random() * bodyIds.length)];
+    var faceId = faceIds[Math.floor(Math.random() * faceIds.length)];
+
+    var CDN = "https://cdn.jsdelivr.net/gh/xxfttkx/image-hosting/kokoron";
+    var bodyUrl = `${CDN}/stb1_s0_1_${bodyId}.png`;
+    var faceUrl = `${CDN}/st1_s0_1_${faceId}.png`;
+
+    function loadImage(src) {
+      return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.crossOrigin = "anonymous";
+        img.onload = () => resolve(img);
+        img.onerror = reject;
+        img.src = src;
+      });
+    }
+async function composite() {
+  const bigCanvas = document.getElementById("hiddenCanvas");
+  const smallCanvas = document.getElementById("composite-two");
+
+  const bigCtx = bigCanvas.getContext("2d");
+  const smallCtx = smallCanvas.getContext("2d");
+
+  bigCtx.imageSmoothingEnabled = true;
+  smallCtx.imageSmoothingEnabled = true;
+
+  try {
+    const [bodyImg, faceImg] = await Promise.all([
+      loadImage(bodyUrl),
+      loadImage(faceUrl),
+    ]);
+
+    // 在高清大 canvas 上绘图
+    bigCtx.clearRect(0, 0, bigCanvas.width, bigCanvas.height);
+    bigCtx.drawImage(bodyImg, 0, 0);
+    bigCtx.drawImage(faceImg, 0, 0);
+
+    // 将大 canvas 的图像缩小画到小 canvas 上
+    smallCtx.clearRect(0, 0, smallCanvas.width, smallCanvas.height);
+    smallCtx.drawImage(
+      bigCanvas,      // 来源 canvas
+      0, 0, bigCanvas.width, bigCanvas.height,   // 源区域
+      0, 0, smallCanvas.width, smallCanvas.height // 目标区域
+    );
+  } catch (e) {
+    console.error("加载图像失败:", e);
+  }
+}
+
+
+    composite();
+  </script>
+</section>

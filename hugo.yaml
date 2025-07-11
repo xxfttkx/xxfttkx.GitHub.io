@@ -175,7 +175,7 @@ params:
       - type: archives
         params:
           limit: 5
-      - type: custom-canvas
+      - type: canvas-group-wrapper
       - type: categories
         params:
           limit: 10
