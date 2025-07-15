@@ -26,3 +26,5 @@ Spotify
 存着许多指令，每个指令对应一个行为，一个行为可能包含多个命令行指令，可以方便的查看和更改
 
 [taskfile](https://taskfile.dev/)
+
+[command_manager](https://github.com/xxfttkx/command_manager)
