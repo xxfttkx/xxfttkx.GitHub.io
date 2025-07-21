@@ -44,12 +44,13 @@ pyautogui.press('f')
 
 但经过实测，在我窗口模式的情况下，仍需`win.activate()`才能成功`PostMessage`。
 
+`PostMessage`就是往消息队列发消息。而我手动点击游戏能触发之前的`PostMessage`，怀疑是游戏内判断了窗口激活时才能处理按键消息。所以**消息“堆积”在消息队列里，直到窗口被激活**。
+
 根据GPT的说法：
 
 > 《星痕共鸣》可能使用了 **Raw Input / DirectInput** 等底层输入机制，导致它**无法正常响应 PostMessage 发送的按键消息**。
 
 且在我切换回原来窗口之后（`original_win.activate()`），仍能通过鼠标控制游戏，即转视角和普通攻击会被我的鼠标操作引出，导致脱离原本采集范围。且预想的息屏状态下能运行也只是我的幻想。
-
 
 ```
     pyautogui.keyDown('alt')
@@ -59,9 +60,21 @@ pyautogui.press('f')
 
 使用这能解决鼠标能控制游戏的问题，但这alt+tab的点击会导致画面闪烁，画面表现也变得和使用`pyautogui`一样了。原本使用`PostMessage`的目的就是想解决`pyautogui`的当前操作和游戏内操作可能互相影响的问题，这一来就又可能出问题了。
 
+## 🧪 尝试方法三：`SendInput`
+
+`SendInput`本质和`pyautogui`相同呀，且它不需要窗口句柄，等同现实点击，需要窗口在前台，那不更要active了吗。
+
 ## ✅ 最终方案
 
 没有捏。
+
+## 需要解决的
+
+activate游戏后就算activate了别的窗口也仍能控制游戏
+
+或
+
+不activate游戏的话`PostMessage`的无法生效
 
 ## 🏁 总结
 
