@@ -1,5 +1,5 @@
 ---
-title: "《星痕共鸣》自动挂机"
+title: "《星痕共鸣》自动采集"
 description: 
 date: 2025-07-20T21:20:27+08:00
 comments: true
@@ -28,6 +28,15 @@ pyautogui.press('f')
 
 这种用户层的操作会打断自己正在做的事，且自己正在做的输入有可能影响一瞬聚焦的游戏，体验并不好。另外还无法在息屏状态下运行。
 
+通过
+
+```
+original_win.activate()
+pyautogui.moveTo(original_mouse_pos.x, original_mouse_pos.y)
+```
+
+能把窗口切换造成的影响尽量降低，但打字被打断等副作用是无能为力的。
+
 ## 🧪 尝试方法二：`PostMessage`
 
 优点：
@@ -52,13 +61,30 @@ pyautogui.press('f')
 
 且在我切换回原来窗口之后（`original_win.activate()`），仍能通过鼠标控制游戏，即转视角和普通攻击会被我的鼠标操作引出，导致脱离原本采集范围。且预想的息屏状态下能运行也只是我的幻想。
 
+使用
+
 ```
     pyautogui.keyDown('alt')
     pyautogui.press('tab')
     pyautogui.keyUp('alt')
 ```
 
-使用这能解决鼠标能控制游戏的问题，但这alt+tab的点击会导致画面闪烁，画面表现也变得和使用`pyautogui`一样了。原本使用`PostMessage`的目的就是想解决`pyautogui`的当前操作和游戏内操作可能互相影响的问题，这一来就又可能出问题了。
+能解决鼠标能控制游戏的问题，但这alt+tab的点击会导致画面闪烁，画面表现也变得和使用`pyautogui`一样了。原本使用`PostMessage`的目的就是想解决`pyautogui`的当前操作和游戏内操作可能互相影响的问题，这一来就又可能出问题了。
+
+上述的模拟`alt+tab的点击`其实还有平替：
+
+```
+def activate_window(hwnd):
+    shell = win32com.client.Dispatch("WScript.Shell")
+    shell.SendKeys('%')  # Alt键以绕过权限问题
+    # win32gui.ShowWindow(hwnd, win32con.SW_SHOW)
+    time.sleep(0.1)
+    win32gui.SetForegroundWindow(hwnd)
+```
+
+可惜仍是类似的表现，没能解决存在着的问题。
+
+> Windows 从 XP 之后几乎**不允许静默地将窗口切到前台**，这是系统限制。
 
 ## 🧪 尝试方法三：`SendInput`
 
@@ -74,12 +100,18 @@ activate游戏后就算activate了别的窗口也仍能控制游戏
 
 或
 
-不activate游戏的话`PostMessage`的无法生效
+不activate游戏的话`PostMessage`无法生效
 
 ## 🏁 总结
 
-万策尽喵。
+万策尽喵。愿意接受副作用其实`pyautogui`和`PostMessage`都算能用。怀疑
+
+> 《星痕共鸣》对自动化操作做了一定的输入机制保护，例如可能使用了 RawInput 或 DirectInput。
 
 ## 🧩 代码
 
 [auto_click](https://github.com/xxfttkx/auto_click)
+
+## 想法
+
+说不定使用模拟器可以发送按键消息不影响其他本地操作。
