@@ -102,6 +102,8 @@ activate游戏后就算activate了别的窗口也仍能控制游戏
 
 不activate游戏的话`PostMessage`无法生效
 
+不小心发现，按esc显示侧边栏的时候无法通过鼠标控制视角转向，那么之前`PostMessage`的相关问题可以通过这个解决，但很麻烦，需要自己手动按esc，还要担心鼠标滚轮把它滚到专注采集去。
+
 ## 🏁 总结
 
 万策尽喵。愿意接受副作用其实`pyautogui`和`PostMessage`都算能用。怀疑
