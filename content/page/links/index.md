@@ -9,6 +9,10 @@ links:
     description: 救命恩人
     website: https://zerobyw.github.io/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 乳首やおっぱいが見えるかもしれないちょっとエッチなシーンのある漫画をまとめるブログ
+    description: 配菜
+    website: https://xn--n8jiej7isd4fqc3561bnnud16n0p1dju3b.com/
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: 屎不拉通
     description: 好吃
     website: https://wikiwiki.jp/splatoon3mix/%E3%83%96%E3%82%AD
@@ -17,8 +21,8 @@ links:
     description: 好用
     website: https://www.acgbox.link/#term-692
     image: https://www.acgbox.link/wp-content/uploads/logo/86742914_p0.png
-  - title: blog
-    description: 
+  - title: 群馬県前橋市 青葉歯科 清水院長ブログ
+    description: 趣味の事を書いたブログです
     website: https://www.aoba-dc.jp/blog/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: クルスタ
