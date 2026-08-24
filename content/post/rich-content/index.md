@@ -41,7 +41,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Gist Shortcode
 
-{{< gist spf13 7896402 >}}
+The "gist" shortcode was deprecated in v0.143.0 and removed in v0.156.0.
 
 ## Gitlab Snippets Shortcode
 
